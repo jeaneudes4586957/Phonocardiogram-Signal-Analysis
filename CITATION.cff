@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Phonocardiogram Signal Analysis"
+abstract: "Notebook-based pipeline that locates the first and second heart sounds (B1, B2) in digital auscultation recordings and compares signal energy across cardiac phases."
+authors:
+  - family-names: Beucher
+    given-names: Jean-Eudes
+repository-code: "https://github.com/jeaneudes4586957/Phonocardiogram-Signal-Analysis"
+license: MIT
