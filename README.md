@@ -8,6 +8,8 @@ Pipeline that locates the first and second heart sounds (B1, B2) in digital stet
 
 > **Status.** Exploratory analysis written in 2024, not actively maintained. There are no reference annotations, so the accuracy of the B1/B2 detection has **not** been measured and no clinical conclusion should be drawn from the outputs.
 
+> **Context.** Developed in 2024 during my engineering studies at [ESEO](https://www.eseo.fr), within study and research projects carried out in collaboration with ESEO. Exploratory scope: this is not a clinical study and makes no claim of clinical validity.
+
 | | |
 |---|---|
 | **Input** | 31 stereo WAV recordings exported from a digital stethoscope (`data/recordings/`). |
